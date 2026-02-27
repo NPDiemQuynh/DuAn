@@ -1,7 +1,38 @@
+.container {
+         display: flex;
+         flex-direction: column;
+         height: 100vh;
+}
+
+.header {
+         flex: 15%;
+         background-color: lightblue;
+}
+
+.menu {
+         flex: 5%;
+         background-color: darkblue;
+}
+
+.content {
+         flex: 70%;
+         background-color: white;
+}
+
+.footer {
+         flex: 10%
+         background-color: darkblue;
+}
+
 h1 {color: red; text-align:center;}
+
 h2 {color: green;}
+
 td {padding: 20; text - align: justify}
+
 .tieude {color: tomato; font-size: 25pt;
          top-margin: 18pt}
+
 .noidung {color: black; font-size: 15pt;
          top-margin: 18pt}
+
