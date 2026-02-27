@@ -19,13 +19,13 @@
 .menu {
          flex: 5%;
          background-color: darkblue;
-         color: white;
          display: flex;
 }
 
 .menu a {
          padding: 15px 20px;
          color: white;
+         text-decoration: none;
 }
 
 .menu hover {
