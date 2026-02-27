@@ -25,12 +25,11 @@
 
 .menu a {
          padding: 15px 20px;
-         color: white;
 }
 
 .menu hover {
          background-color: white;
-         color: black
+         color: black;
 }
 
 .content {
