@@ -13,12 +13,12 @@
 
 .header {
          flex: 15%;
-         background-color: #BOA6DF;
+         background-color: lightyellow;
 }
 
 .menu {
          flex: 5%;
-         background-color: darkblue;
+         background-color: mediumpurple;
          display: flex;
 }
 
@@ -40,7 +40,7 @@
 
 .footer {
          flex: 10%;
-         background-color: darkblue;
+         background-color: mediumpurple;
 }
 
 h1 {color: red; text-align:center;}
