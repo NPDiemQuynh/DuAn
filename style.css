@@ -28,7 +28,7 @@
          text-decoration: none;
 }
 
-.menu hover {
+.menu a: hover {
          background-color: gray;
          color: white;
 }
